@@ -1,0 +1,31 @@
+---
+title: "Decoding the Particle Swarm Algorithm"
+subtitle: "Optimizing Collective Intelligence"
+author:
+  - name: Victor De Lima
+    affiliations:
+      - name: Georgetown University  
+  - name: Matt Moriarty
+    affiliations:
+      - name: Georgetown University
+date: '2023-04-27'
+abstract: ""
+categories: [stochastic optimization, swarm intelligence]
+content-type: portfolio-projects
+image: ""
+format:
+  html:
+    toc: true
+    code-copy: true
+    number-sections: true
+    code-line-numbers: true
+    highlight-style: github
+bibliography: assets/references.bib
+csl: assets/council-of-science-editors-brackets.csl
+---
+
+::: {.callout-note appearance="simple"}
+
+All code used in this report is publicly available on [GitHub](https://github.com/vdelimad/particle-swarm-optimization).
+
+::: 
